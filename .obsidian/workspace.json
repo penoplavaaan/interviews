@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "b60341eea54f8b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d95080a07dcbd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff6b58f2406f49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ru/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60936a2f8c5c0fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "583ef190b8c6c465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3962fdf6968bdf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "913a4700f9fcdc76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da3d0c42b33dcdf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e94a4c0cfec61372",
+    "type": "split",
+    "children": [
+      {
+        "id": "99bc796758e4141d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b6995a92581c611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ru/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git"
+            }
+          },
+          {
+            "id": "13fba26837f7df6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ru/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git"
+            }
+          },
+          {
+            "id": "d040ce35ce8318fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a89354eb9cd0d77b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ru/Git.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ff6b58f2406f49e",
+  "lastOpenFiles": [
+    "ru/SQL.md",
+    "ru/HTTP.md",
+    "ru/Unix.md",
+    "ru/Git.md",
+    "ru/General- ЯП.md",
+    "ru/Структуры данных.md",
+    "ru/Язык программирования (GO).md",
+    "ru/Язык программирования (PHP).md"
+  ]
+}
