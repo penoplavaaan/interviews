@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ru/Git.md",
+                "file": "ru/Язык программирования (PHP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Язык программирования (PHP)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ru/Git.md",
+                "file": "ru/Язык программирования (PHP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git"
+              "title": "Backlinks for Язык программирования (PHP)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ru/Git.md",
+                "file": "ru/Язык программирования (PHP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git"
+              "title": "Outgoing links from Язык программирования (PHP)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ru/Git.md"
+                "file": "ru/Язык программирования (PHP).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Git"
+              "title": "Outline of Язык программирования (PHP)"
             }
           }
         ]
@@ -164,13 +164,13 @@
   },
   "active": "0ff6b58f2406f49e",
   "lastOpenFiles": [
+    "ru/Язык программирования (GO).md",
+    "ru/General- ЯП.md",
+    "ru/Git.md",
     "ru/SQL.md",
     "ru/HTTP.md",
     "ru/Unix.md",
-    "ru/Git.md",
-    "ru/General- ЯП.md",
     "ru/Структуры данных.md",
-    "ru/Язык программирования (GO).md",
     "ru/Язык программирования (PHP).md"
   ]
 }
