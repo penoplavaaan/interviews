@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d95080a07dcbd2",
+        "id": "b9b9625afef54c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ff6b58f2406f49e",
+            "id": "cdeb0e0893a3970f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ru/Структуры данных.md",
+                "file": "ru/Алгоритмы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структуры данных"
+              "title": "Алгоритмы"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ru/Структуры данных.md",
+                "file": "ru/Алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Структуры данных"
+              "title": "Backlinks for Алгоритмы"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ru/Структуры данных.md",
+                "file": "ru/Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Структуры данных"
+              "title": "Outgoing links from Алгоритмы"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ru/Структуры данных.md"
+                "file": "ru/Алгоритмы.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Структуры данных"
+              "title": "Outline of Алгоритмы"
             }
           }
         ]
@@ -162,15 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ff6b58f2406f49e",
+  "active": "cdeb0e0893a3970f",
   "lastOpenFiles": [
+    "ru/Структуры данных.md",
     "ru/Язык программирования (PHP).md",
     "ru/Язык программирования (GO).md",
-    "ru/General- ЯП.md",
-    "ru/Git.md",
+    "ru/Алгоритмы.md",
+    "ru/Unix.md",
     "ru/SQL.md",
     "ru/HTTP.md",
-    "ru/Unix.md",
-    "ru/Структуры данных.md"
+    "ru/Git.md",
+    "ru/General- ЯП.md",
+    "Pasted image 20241117204717.png"
   ]
 }
